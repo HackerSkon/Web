@@ -1,0 +1,71 @@
+body {
+    font-family: 'Times New Roman', Times, serif; 
+    color:#3D3D3D;
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo{
+    background-color: #E1EDF2;
+    padding: 10px;
+}
+
+.subtitulo{
+   border-bottom: solid 2px black;
+}
+figure{
+    text-align: center;
+    background-color: whitesmoke;
+    color:lightgrey;
+    padding: 15px;
+    margin: 30px;
+    border: 1px solid lightgrey;
+}
+figcaption{
+    margin: 10px;
+}
+.familia{
+    width: 275px; 
+    float: right;
+}
+.matriz{
+    width: 550px;
+    margin: auto;
+    margin-right: auto; 
+    margin-left:auto;
+}
+figure img{
+    width: 100%;
+}
+figcaption {
+    margin-top: 10px;
+}
+.contacto_info{
+    margin: 16px 0 24px;
+    padding-left: 32px;
+}
+.contacto_substituto{
+    display: inline;
+}
+.contacto_info-titulo,
+.contacto_info-descricao{
+    display: inline; 
+}
+.contacto_info-descricao{
+    margin-left: 10px;
+}
+.contacto__secao{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 16px;
+}
+.contacto_secao_telefone{
+    margin-left: 32px;
+}
+.contato__info-titulo,
+.contato__info-descricao {
+display: inline;
+}
+.contato__info-descricao {
+margin-left: 10px;
+}
